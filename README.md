@@ -2,6 +2,6 @@
 
 Java (Maven) application for tracking time on the job
 
-## Causing TRouble
+## Purpose
 
-double trouble ey ey
+Maven for training git
